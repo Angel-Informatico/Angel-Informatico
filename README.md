@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning HTML and Java
 - 💻🖥🖱🖨⌨
 - 🏳 I speak spanish, english and a little bit of french.
+
+- 📣 My developer discord server: https://img.shields.io/discord/979365716656545792
+
 - 💻 My developer discord:
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/979360345627971614?idleMessage=👨‍💻%20Programando%20👨‍💻)](https://discord.com/users/979360345627971614)
