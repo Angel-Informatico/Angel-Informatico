@@ -31,7 +31,7 @@
 
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-Informatico&theme=dark)
+[![xIsm4's GitHub stats](https://github-readme-stats.vercel.app/api?username=Angel-Informatico&show_icons=true&theme=merko)](https://github.com/Angel-Informatico/) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-Informatico&theme=dark)
 <!---
 Angel-Informatico/Angel-Informatico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
