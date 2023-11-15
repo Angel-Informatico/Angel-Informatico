@@ -1,3 +1,5 @@
+<a href=#><img src="contributions.svg"></a>
+
 - 👋 Hi, I’m Ángel
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning HTML and Java
