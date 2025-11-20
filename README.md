@@ -16,7 +16,7 @@
 <h2 align="center">Favorite tools and technologies 🛠</h2>
 <p align="center">
 
-<img src="https://img.shields.io/badge/-Proxmox-2C3E50?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+<img src="https://img.shields.io/badge/-Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
 <img src="https://img.shields.io/badge/-Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft" />
 <img src="https://img.shields.io/badge/-OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 <img src="https://img.shields.io/badge/-npm-cb0000?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
