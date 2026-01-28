@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.JS" />
 <img src="https://img.shields.io/badge/-Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5" />
 <img src="https://img.shields.io/badge/-JavaScript-dfb317?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-<img src="https://img.shields.io/badge/-Css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS 3" />
+<img src="https://img.shields.io/badge/-Css3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS 3" />
 <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 <img src="https://img.shields.io/badge/-Pterodactyl-10539F?style=for-the-badge&logo=pterodactyl&logoColor=white" alt="Pterodactyl" />
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
